@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "title": "Testingv1",
+    "owner": "ema"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Testingv1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
